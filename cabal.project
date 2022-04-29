@@ -4,3 +4,9 @@ source-repository-package
     type: git
     location: https://github.com/vshabanov/ekg-json.git
     tag: 00ebe7211c981686e65730b7144fbf5350462608
+
+source-repository-package
+    type: git
+    location: https://github.com/hyraxbio/ekg-core.git
+    tag: 2a1899c01c4555c4de5717cf5a91ae6d28ef5e6a
+
